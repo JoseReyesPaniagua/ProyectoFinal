@@ -1,0 +1,111 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-04-25 00:35:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-04-25 00:35:56 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 200 0 0 133
+2022-04-25 00:35:56 ::1 GET /iis-85.png - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 http://localhost/ 304 0 0 0
+2022-04-25 00:35:56 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 http://localhost/ 404 0 2 4
+2022-04-25 00:36:57 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 20
+2022-04-25 00:38:06 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 200 0 0 99
+2022-04-25 00:38:06 10.0.2.15 GET /iis-85.png - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 http://10.0.2.15/ 200 0 0 3
+2022-04-25 00:38:06 10.0.2.15 GET /favicon.ico - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 http://10.0.2.15/ 404 0 2 1
+2022-04-25 00:51:15 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:51:16 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 44
+2022-04-25 00:51:16 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:51:16 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 41
+2022-04-25 00:51:16 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 33
+2022-04-25 00:51:16 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 27
+2022-04-25 00:51:16 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 26
+2022-04-25 00:51:17 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 40
+2022-04-25 00:51:17 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 26
+2022-04-25 00:51:17 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 27
+2022-04-25 00:51:17 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 28
+2022-04-25 00:51:17 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 26
+2022-04-25 00:51:17 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 39
+2022-04-25 00:51:50 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:51:50 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:51:50 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 27
+2022-04-25 00:51:50 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 26
+2022-04-25 00:52:00 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 26
+2022-04-25 00:52:00 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 55
+2022-04-25 00:52:00 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:52:00 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 34
+2022-04-25 00:52:01 10.0.2.15 GET / - 80 - 10.0.2.15 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-04-25 00:54:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-04-25 00:54:41 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 113
+2022-04-25 00:54:41 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:54:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 26
+2022-04-25 00:54:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 48
+2022-04-25 00:54:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:54:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 26
+2022-04-25 00:54:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 33
+2022-04-25 00:54:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 37
+2022-04-25 00:54:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:54:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 34
+2022-04-25 00:54:43 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 27
+2022-04-25 00:54:43 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 25
+2022-04-25 00:54:43 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 32
+2022-04-25 00:54:43 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:54:43 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 32
+2022-04-25 00:54:44 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 34
+2022-04-25 00:54:44 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 27
+2022-04-25 00:55:19 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:55:19 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:55:19 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:55:19 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:55:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 40
+2022-04-25 00:55:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:55:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:55:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:55:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 37
+2022-04-25 00:55:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 32
+2022-04-25 00:55:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 36
+2022-04-25 00:55:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:55:22 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 32
+2022-04-25 00:55:22 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:55:22 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 35
+2022-04-25 00:55:22 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 403 14 0 38
+2022-04-25 01:05:03 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 200 0 0 1
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-04-25 01:27:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-04-25 01:27:05 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 200 0 0 121
+2022-04-25 01:27:05 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 http://localhost/ 404 0 2 5
+2022-04-25 01:27:41 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 200 0 0 0
+2022-04-25 01:27:41 10.0.0.25 GET /favicon.ico - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 http://10.0.0.25/ 404 0 2 2
+2022-04-25 01:28:05 10.0.0.25 GET / - 80 - 10.0.0.9 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 200 0 0 31
+2022-04-25 01:28:05 10.0.0.25 GET /favicon.ico - 80 - 10.0.0.9 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 http://10.0.0.25/ 404 0 2 32
+2022-04-25 01:29:45 10.0.0.25 GET / - 80 - 10.0.0.9 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 46
+2022-04-25 01:32:57 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:32:57 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:32:57 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:32:57 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:32:59 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:32:59 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:32:59 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:32:59 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:32:59 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:32:59 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:32:59 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:33:00 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:33:00 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:33:00 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:33:07 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:33:07 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:33:07 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:33:08 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:33:08 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 01:33:08 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 1
+2022-04-25 01:48:23 10.0.0.25 GET / - 80 - 10.0.0.9 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2022-04-25 04:56:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-04-25 04:56:24 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 200 0 0 50
+2022-04-25 04:57:05 10.0.0.25 GET / - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 0
+2022-04-25 04:57:05 10.0.0.25 GET /favicon.ico - 80 - 10.0.0.25 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 http://10.0.0.25/ 404 0 2 15
+2022-04-25 04:57:22 10.0.0.25 GET / - 80 - 10.0.0.9 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Safari/537.36 - 304 0 0 46

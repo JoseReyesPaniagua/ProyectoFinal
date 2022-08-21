@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.8" type="plugin" group="system" method="upgrade">
+    <name>LT Blue Services Onepage</name>
+    <description>LT Blue Services Onepage Joomla! template - &lt;a target='_blank' href='https://ltheme.com/free-onepage-joomla-template-helix-utm-documentation/'&gt;See Template Document&lt;/a&gt; | &lt;a target='_blank' href='https://ltheme.com/project/lt-blue-service-free-one-page-responsive-service-joomla-template/'&gt;Get PRO license&lt;/a&gt; to access &lt;a target='_blank' href='http://demo.ltheme.com/joomla-one-page-templates/lt-blue-service/'&gt;Full version as LIVE DEMO&lt;/a&gt;</description>
+    <scriptfile>installer.script.php</scriptfile>
+    <files>
+		<filename plugin="tmp_helixult">installer.script.php</filename>
+    </files>
+    <plugins>
+        <plugin plugin="helixultimate" group="system" />
+    </plugins>
+    <template name="ltblueservices"/>
+</extension>
